@@ -1,0 +1,15 @@
+.link {
+  text-decoration: none;
+}
+
+.course-list-style {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin-right: 50px;
+  margin-bottom: 40px;
+}
+
+.course-name {
+  margin-left: 8px;
+}
